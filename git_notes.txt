@@ -1,0 +1,10 @@
+git --version # check version of git
+
+git init  # initialize empty git repository in a folder
+
+git config --global user.name 'username'  # set global username 
+
+git config --global user.email 'useremail'  # set global useremail
+
+
+git status --short  # shows list of untracked files 
