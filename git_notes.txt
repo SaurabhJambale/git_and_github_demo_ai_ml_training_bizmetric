@@ -8,3 +8,7 @@ git config --global user.email 'useremail'  # set global useremail
 
 
 git status --short  # shows list of untracked files 
+
+git status  # shows status of git repository
+
+git add filename  # adds file to staging area
