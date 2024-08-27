@@ -12,3 +12,13 @@ git status --short  # shows list of untracked files
 git status  # shows status of git repository
 
 git add filename  # adds file to staging area
+
+git log  # gives history of all commits and commit hash code
+
+git log --all --graph 
+
+git checkout branch_name  # switch to branch. If you have only one branch then it will go to last commited head.
+
+git checkout commit_hash_code  # switch to head of current branch.
+
+git branch branchname # creates new branch
