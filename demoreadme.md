@@ -1,1 +1,0 @@
-git_and_github_aiml_training_bizmetric
