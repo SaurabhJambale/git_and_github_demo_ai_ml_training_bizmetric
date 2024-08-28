@@ -1,1 +1,3 @@
 this are changes from bug fix branch
+ changes from new-branch-main-from remote repo 
+second time changes from new-branch-main-from remote repo 
