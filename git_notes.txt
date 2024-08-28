@@ -24,3 +24,11 @@ git checkout commit_hash_code  # switch to head of current branch.
 git branch branchname # creates new branch
 
 git stash # it will add staged and unstaged files to stash area and head will goes back to last commit.
+
+git remote add <give_name_of_your_choice_to_remote_repo > <url_of_remote_repo>  # add remote repo to current repo
+
+git pull <remote_repo_name > <remote_repo_branch_name> # update current repo with remote repo
+
+git merge <local_repo_branch_name> <remote_repo_name/remote_repo_branch_name> # merge local branch with remote repo branch
+
+										
